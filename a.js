@@ -1,1 +1,1 @@
-console.log("hello from feature1")
+console.log("hello from feature2")
